@@ -1,20 +1,6 @@
 # LatihanUKL-SoalMudahNo1-Ekspedisi-AzkyaRahma-XRPL2
 Fungsi program ini menghitung total biaya pengiriman paket berdasarkan berat, jarak, dan volume. Volume >100 cm³ ditambah biaya ekstra. Tarif per kg sesuai jarak. Hasil ditampilkan dalam format Rupiah.
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.mycompany.ukl_ara;
 
-/**
- *
- * @author araaz
- */
-import java.util.Scanner;
-public class SOAL1_Ekspedisi {
-
-    public static void main(String[] args) { 
-        Scanner sc = new Scanner(System.in); 
 
         // --- BAGIAN INPUT --- //
         System.out.print("Masukkan berat paket (kg): ");
